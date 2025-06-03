@@ -2,8 +2,6 @@
 
 Welcome to **TailorMyCV**, an AI-powered resume optimization tool built to help job seekers stand out in the crowd. Whether you're applying for your first job or aiming for a career pivot, this app transforms your generic resume into a job-specific powerhouse—with a personal cover letter and benchmarking to boot.
 
-🔗 [Live Demo](https://tailormycv.streamlit.app) | 📘 [Read the Story](https://medium.com/...) | ⭐ Star this repo if you like it!
-
 ---
 
 ## ✨ Features
